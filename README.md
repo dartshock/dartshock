@@ -1,7 +1,15 @@
-# 💫 About Me:
-Aspiring C++ Developer | Seeking Internship or Junior Opportunities
+# 💻 Стэk:
+C++, STL, Boost, Qt, CMake, Git, Docker, разработка в Linux‑среде, PostgreSQL, знаком с основами Python.
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+# Проекты:
+1) Многопользовательская браузерная игра - разработал серверную часть:
+https://здесьбудетссылка.ru
+- Хранение и управление состоянием игры
+- Отдача статических файлов: изображения, код на HTML/CSS/JavaScript
+- Предоставление REST API для клиентских запросов
+- Сериализация и сохранение состояния игры при перезапуске сервера
+- Сохранение рекордов игроков в БД PostgreSQL
+2) Электронная таблица — приложение с поддержкой ячеек, формул и вычислений:
+https://здесьбудетссылка.ru
+3) Калькулятор с графическим интерфейсом (использовал фреймворк Qt):
+https://здесьбудетссылка.ru
