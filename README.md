@@ -2,11 +2,7 @@
 C++, STL, Boost, Qt, CMake, Git, Docker, разработка в Linux‑среде, PostgreSQL, знаком с основами Python.
 
 # Проекты:
-1) Многопользовательская браузерная игра - разработал серверную часть:
-- Хранение и управление состоянием игры
-- Отдача статических файлов: изображения, код на HTML/CSS/JavaScript
-- Предоставление REST API для клиентских запросов
-- Сериализация и сохранение состояния игры при перезапуске сервера
-- Сохранение рекордов игроков в БД PostgreSQL
-2) Электронная таблица — приложение с поддержкой ячеек, формул и вычислений:
-3) Калькулятор с графическим интерфейсом (использовал фреймворк Qt):
+
+1. [Игровой сервер многопользовательской браузерной игры](https://github.com/dartshock/yandex_praktikum_projects/tree/main/game_server)
+2. [Электронная таблица](https://github.com/dartshock/yandex_praktikum_projects/tree/main/spreadsheet)
+3. [Калькулятор](https://github.com/dartshock/yandex_praktikum_projects/tree/main/calculator)
