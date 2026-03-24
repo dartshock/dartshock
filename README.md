@@ -18,5 +18,6 @@
    
 ## Проекты созданные в рамках курса разработчик C++ от Яндекс Практикум:
 1. [Игровой сервер многопользовательской браузерной игры](https://github.com/dartshock/yandex_praktikum_projects/tree/main/game_server)
-2. [Калькулятор](https://github.com/dartshock/yandex_praktikum_projects/tree/main/calculator)
+2. [Электронная таблица](https://github.com/dartshock/yandex_praktikum_projects/tree/main/spreadsheet)
+3. [Калькулятор](https://github.com/dartshock/yandex_praktikum_projects/tree/main/calculator)
 
